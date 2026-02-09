@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lískovec"
+  given-names: "Radim"
+  orcid: "https://orcid.org/0000-0002-5551-3714"
+title: "SCENERY-FDAmap: Map visualization of FDA models"
+version: 1.0.0
+date-released: 2026-02-09
+url: "https://github.com/SCENERY-MUNI/SCENERY-FDAmap"
