@@ -6,5 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-5551-3714"
 title: "SCENERY-FDAmap: Map visualization of FDA models"
 version: 1.0.0
+doi: 10.5281/zenodo.18549891
 date-released: 2026-02-09
 url: "https://github.com/SCENERY-MUNI/SCENERY-FDAmap"
