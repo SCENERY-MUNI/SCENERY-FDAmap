@@ -5,7 +5,7 @@ authors:
   given-names: "Radim"
   orcid: "https://orcid.org/0000-0002-5551-3714"
 title: "SCENERY-FDAmap: Map visualization of FDA models"
-version: 1.0.0
-doi: 10.5281/zenodo.18549891
-date-released: 2026-02-09
+version: 1.1
+doi: 10.5281/zenodo.23557379
+date-released: 2026-10-22
 url: "https://github.com/SCENERY-MUNI/SCENERY-FDAmap"
